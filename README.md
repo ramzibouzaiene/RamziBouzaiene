@@ -8,7 +8,7 @@
 <a href="https://twitter.com/RamziBzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramzibouzaiene" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramzibouzaiene" height="30" width="40" /></a>
 <a href="https://instagram.com/ramzibouzaiene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramzibouzaiene" height="30" width="40" /></a>
-<a href="https://ramzibouzaiene.github.io/" target="blank"><img align="center" alt="" height="30" width="40" />Personal Website</a>
+<a href="https://ramzibouzaiene.github.io/" target="blank">Personal Website</a>
 
 
 <details>
