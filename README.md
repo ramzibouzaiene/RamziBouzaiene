@@ -7,7 +7,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I'm Ramzi, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555666.png" width="13"/> <b>Tunisia</b>, I love to build cool things on the web. </p> <br>
 - :student: Currently I'm a Software Developer Intern working on my graduation project (Bachelor's degree in software engineering soon). <br>
 - :zap: In my free time, I'm trying to build some personal projects to improve my skills and read tech articles or books. <br>
@@ -17,7 +16,7 @@
 <a href="https://twitter.com/RamziBzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramzibouzaiene" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramzibouzaiene" height="30" width="40" /></a>
 <a href="https://ramzibouzaiene.github.io/" target="blank">Personal Website</a> <br>
- <div> ![](https://komarev.com/ghpvc/?username=ramzibouzaiene&color=green&style=plastic) </div>
+
 
 
 <details>
