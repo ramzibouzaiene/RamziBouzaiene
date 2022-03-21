@@ -14,8 +14,7 @@
 <a href="https://twitter.com/RamziBzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramzibouzaiene" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramzibouzaiene" height="30" width="40" /></a>
 <a href="https://ramzibouzaiene.github.io/" target="blank">Personal Website</a> <br>
-(https://komarev.com/ghpvc/?username=ramzibouzaiene&color=green&style=plastic)
-
+  ![](https://komarev.com/ghpvc/?username=ramzibouzaiene&color=green&style=plastic)
 
 
 <details>
