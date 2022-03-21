@@ -18,3 +18,5 @@
 </details>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzibouzaiene)](https://github.com/ramzibouzaiene/github-readme-stats)
+  ![Ramzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzibouzaiene&show_icons=true&theme=gruvbox_light)
+
