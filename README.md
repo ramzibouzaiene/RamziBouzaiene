@@ -4,10 +4,8 @@
 
 <img src="https://komarev.com/ghpvc/?ramzibouzaiene&style=flat-square&color=blue" alt=""/>
 
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-<p>Welcome to my page! </br> I'm Ramzi, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555666.png" width="13"/> <b>Tunisia</b>, I love to build cool things on the web. </p> <br>
+<p>Welcome to my page! </br> I'm Ramzi, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555666.png" width="13"/> <b>Tunisia</b>, I love to build cool things on the web. </p>
 - :student: Currently I'm a Software Developer Intern working on my graduation project (Bachelor's degree in software engineering soon). <br>
 - :zap: In my free time, I'm trying to build some personal projects to improve my skills and read tech articles or books. <br>
 
