@@ -10,7 +10,7 @@ Hi 👋 My name is Ramzi Bouzaiene
 Software Developer
 ------------------
 
-Currently I'm a Software Developer Intern working on my graduation project (Bachelor's degree in software engineering soon). I’m truly passionate about software development since i was in high school. This passion carried me through my education at the university to develop myself and gain a more knowledge in software engineering field with some fundamentals in Artificial intelligence and Machine Learning. - I was able to acquire a solid foundation during my three years of studies in development and software engineering, skills in which I particularly excelled during my studies. - In addition with internships in the field of web development.
+Currently I'm a Software Developer Intern working on my graduation project (Bachelor's degree in software engineering soon). I’m truly passionate about software development since i was in high school. This passion carried me through my education at the university to develop myself and gain a more knowledge in software engineering field with some fundamentals in Artificial intelligence and Machine Learning. I was able to acquire a solid foundation during my three years of studies in development and software engineering, skills in which I particularly excelled during my studies. In addition with internships in the field of web development.
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [MY PORTFOLIO](http://ramzibouzaiene.github.io/)
@@ -35,7 +35,7 @@ Currently I'm a Software Developer Intern working on my graduation project (Bach
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordPress-colored.svg" width="36" height="36" alt="WordPress" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
