@@ -10,7 +10,7 @@ Hi 👋 My name is Ramzi Bouzaiene
 Software Developer
 ------------------
 
-Currently I'm a Software Developer Intern working on my graduation project (Bachelor's degree in software engineering soon). I’m truly passionate about software development since i was in high school. This passion carried me through my education at the university to develop myself and gain a more knowledge in software engineering field with some fundamentals in Artificial intelligence and Machine Learning. I was able to acquire a solid foundation during my three years of studies in development and software engineering, skills in which I particularly excelled during my studies. In addition with internships in the field of web development.
+A fresh graduate obtained bachelor's degree in software engineering. I’m truly passionate about software development since i was in high school. This passion carried me through my education at the university to develop myself and gain a more knowledge in software engineering field with some fundamentals in Artificial intelligence and Machine Learning. I was able to acquire a solid foundation during my three years of studies in development and software engineering, skills in which I particularly excelled during my studies. In addition with internships in the field of web development.
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [MY PORTFOLIO](http://ramzibouzaiene.github.io/)
