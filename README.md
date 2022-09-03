@@ -46,3 +46,5 @@ A fresh graduate obtained bachelor's degree in software engineering. I’m truly
 
 <p align="left"> <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RamziBouzaiene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ramzibouzaiene&show_icons=true)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=ramzibouzaiene/siyoutec/b2s2c)
