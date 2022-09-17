@@ -10,7 +10,7 @@ Hi 👋 My name is Ramzi Bouzaiene
 Software Developer
 ------------------
 
-A fresh graduate obtained bachelor's degree in software engineering. I’m truly passionate about software development since i was in high school. This passion carried me through my education at the university to develop myself and gain a more knowledge in software engineering field with some fundamentals in Artificial intelligence and Machine Learning. I was able to acquire a solid foundation during my three years of studies in development and software engineering, skills in which I particularly excelled during my studies. In addition with internships in the field of web development.
+Full Stack developer passionate about new technologies and web development area with a curiosity about learning new stuff. I have a national degree in computer science from The Higher Institute of Applied Sciences and Technology of Sousse (ISSAT Sousse) specialized in "Software Engineering And information system". I am good at programming and any area related to innovative technology, creating Websites and applications with a background in algorithms and data structure.Full Stack developer passionate about new technologies and web development area with a curiosity about learning new stuff. I have a national degree in computer science from The Higher Institute of Applied Sciences and Technology of Sousse (ISSAT Sousse) specialized in "Software Engineering And information system". I am good at programming and any area related to innovative technology, creating Websites and applications with a background in algorithms and data structure.
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [MY PORTFOLIO](http://ramzibouzaiene.github.io/)
@@ -45,3 +45,11 @@ A fresh graduate obtained bachelor's degree in software engineering. I’m truly
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RamziBouzaiene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ramzibouzaiene"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramzibouzaiene&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/ramzibouzaiene"><img src="https://activity-graph.herokuapp.com/graph?username=ramzibouzaiene&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
