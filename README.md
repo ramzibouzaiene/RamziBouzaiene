@@ -7,7 +7,7 @@
 Hi 👋 My name is Ramzi Bouzaiene
 ================================
 
-Software Developer
+Full Stack Developer
 ------------------
 
 Full Stack developer passionate about new technologies and web development area with a curiosity about learning new stuff. I have a national degree in computer science from The Higher Institute of Applied Sciences and Technology of Sousse (ISSAT Sousse) specialized in "Software Engineering And information system". I am good at programming and any area related to innovative technology, creating Websites and applications with a background in algorithms and data structure.Full Stack developer passionate about new technologies and web development area with a curiosity about learning new stuff. I have a national degree in computer science from The Higher Institute of Applied Sciences and Technology of Sousse (ISSAT Sousse) specialized in "Software Engineering And information system". I am good at programming and any area related to innovative technology, creating Websites and applications with a background in algorithms and data structure.
