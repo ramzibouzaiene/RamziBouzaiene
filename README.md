@@ -10,7 +10,8 @@ Hi 👋 My name is Ramzi Bouzaiene
 Full Stack Developer
 ------------------
 
-Full Stack developer passionate about new technologies and web development area with a curiosity about learning new stuff. I have a national degree in computer science from The Higher Institute of Applied Sciences and Technology of Sousse (ISSAT Sousse) specialized in "Software Engineering And information system". I am good at programming and any area related to innovative technology, creating Websites and applications with a background in algorithms and data structure.
+A full Stack developer and javascript enthusiast with a curiosity about new technologies and web development area as well as the ability to learn new stuffs in any area related to innovative technology, creating websites and applications .
+I am a passionate developer and I love building cool things on the web with strong web design skills and a background in algorithms and data structure.
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [MY PORTFOLIO](https://fabulous-crepe-f8476d.netlify.app/)
