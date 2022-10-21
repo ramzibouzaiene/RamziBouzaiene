@@ -47,8 +47,8 @@ I am a passionate developer and I love building cool things on the web with stro
 
 <p align="left"> <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RamziBouzaiene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"> 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"> 
+</a>
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
