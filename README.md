@@ -7,10 +7,10 @@
 Hi 👋 My name is Ramzi Bouzaiene
 ================================
 
-Full Stack Developer
+Web Developer
 ------------------
 
-A full Stack developer and javascript enthusiast with a curiosity about new technologies and web development area as well as the ability to learn new stuffs in any area related to innovative technology, creating websites and applications .<br>
+A Web Developer and javascript enthusiast with a curiosity about new technologies and web development area as well as the ability to learn new stuffs in any area related to innovative technology, creating websites and applications .<br>
 I am a passionate developer and I love building cool things on the web with strong web design skills and a background in algorithms and data structure.
 
 * 🌍  I'm based in Tunisia
