@@ -18,7 +18,7 @@ I am a passionate developer and I love building cool things on the web with stro
 * ✉️  You can contact me at [ramzibouzaiene00@gmail.com](mailto:ramzibouzaiene00@gmail.com)
 * 🧠  I'm learning Some JS frameworks to improve my skills
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I can consider myself a self-taught and a fast learner and i had taken some online certifications in certain domains.
+* ⚡  I am open to every tech thrown at me, I am not afraid to jump and learn whatever tool solves the problem at hand, in the best way possible.
 
 ### Technologies
 
