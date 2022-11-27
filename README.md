@@ -7,7 +7,7 @@
 Hi 👋 My name is Ramzi Bouzaiene
 ================================
 
-Software Developer
+Full Stack Developer
 ------------------
 
 A Software Developer and javascript enthusiast with a curiosity about new technologies and web development area as well as the ability to learn new stuffs in any area related to innovative technology, creating websites and applications .<br>
