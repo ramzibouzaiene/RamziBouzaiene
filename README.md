@@ -47,11 +47,6 @@ I am a passionate developer and I love building cool things on the web with stro
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzibouzaiene)]
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzibouzaiene&show_icons=true&theme=dark)
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/ramzibouzaiene/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RamziBouzaiene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
