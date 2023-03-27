@@ -10,11 +10,12 @@ Hi 👋 My name is Ramzi Bouzaiene
 Full Stack Developer
 ------------------
 
-A Full Stack Developer and javascript enthusiast with a curiosity about new technologies and web development area as well as the ability to learn new stuffs in any area related to innovative technology, creating websites and applications .<br>
-I am a passionate developer and I love building cool things on the web with strong web design skills and a background in algorithms and data structure.
+Well-qualified Full Stack Developer, eager to learn and hardworking person, experienced in Front-End area (React, Redux, Angular ect...) with the ability of building scalable and user-friendly web applications.
+In the Back-End area i worked with PHP/Laravel before and also i have a good knowledge in Node Js and Express Js throughout my skills in Javascript language and currently I'm trying to improve my skills in Go programming language and some related frameworks.
+Through my experience I'm always trying to learn more about the best practices, clean code and some optimization techniques.
+Above all, I'm a team player and I am always looking for ways to improve my skills and stay up to date with the latest development trends.
 
 * 🌍  I'm based in Tunisia
-* 🖥️  See my portfolio at [MY PORTFOLIO]
 * ✉️  You can contact me at [ramzibouzaiene00@gmail.com](mailto:ramzibouzaiene00@gmail.com)
 * 🧠  I'm learning Some JS frameworks to improve my skills
 * 🤝  I'm open to collaborating on Interesting projects
