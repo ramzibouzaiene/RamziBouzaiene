@@ -10,14 +10,14 @@ Hi 👋 My name is Ramzi Bouzaiene
 Full Stack Developer
 ------------------
 
-Well-qualified Full Stack Developer, eager to learn and hardworking person, experienced in Front-End area (React, Redux, Angular ect...) with the ability of building scalable and user-friendly web applications.
-In the Back-End area i worked with PHP/Laravel before and also i have a good knowledge in Node Js and Express Js throughout my skills in Javascript language and currently I'm trying to improve my skills in Go programming language and some related frameworks.
-Through my experience I'm always trying to learn more about the best practices, clean code and some optimization techniques.
+Well-qualified Full Stack Developer, eager to learn and hardworking person, experienced in Front-End area (React, Redux, Angular, etc.) with the ability to build scalable and user-friendly web applications.
+In the Back-End area, I worked with PHP/Laravel before, and also i have good knowledge of Node JS and Express JS throughout my skills in Javascript language currently, I'm trying to improve my skills in Java and Spring Boot framework.
+Through my experience, I'm always trying to learn more about the best practices, clean code, and some optimization techniques.
 Above all, I'm a team player and I am always looking for ways to improve my skills and stay up to date with the latest development trends.
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [ramzibouzaiene00@gmail.com](mailto:ramzibouzaiene00@gmail.com)
-* 🧠  I'm learning Some JS frameworks to improve my skills
+* 🧠  Currently I'm working with Java and Spring Boot to improve my skills in the Back-end area.
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I am open to every tech thrown at me, I am not afraid to jump and learn whatever tool solves the problem at hand, in the best way possible.
 
@@ -36,7 +36,8 @@ Above all, I'm a team player and I am always looking for ways to improve my skil
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![SpeingBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
